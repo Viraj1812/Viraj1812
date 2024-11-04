@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viraj Vasani.</h1>
-<h3 align="center">Android Developer and Competitive Programmer</h3>
+<h3 align="center">Mobile Application Developer and Competitive Programmer</h3>
 
 
 
